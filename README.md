@@ -21,7 +21,7 @@ Previously published as a [Neovim colorscheme](https://github.com/ghostvox/Stix.
 1. Open Zed and press `Ctrl+Shift+X` to open the Extensions panel
 2. Search for **Stix**
 3. Click **Install**
-4. Open the theme picker with `Ctrl+K Ctrl+T` and select **Stix Dark** or **Stix Light**
+4. Open the theme picker with `Ctrl+K Ctrl+T` and select **Stix Dark**, **Stix Dark Transparent**, or **Stix Light**
 
 ---
 
